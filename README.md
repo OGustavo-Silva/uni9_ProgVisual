@@ -1,1 +1,8 @@
-# 2021-2_quarta_noite
+# 2021-2 - Quarta - Noite
+Disciplina: 
+
+Prof. Thiago Graziani Traue (thiago.traue@uni9...)
+
+****
+
+

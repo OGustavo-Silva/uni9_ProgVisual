@@ -23,6 +23,9 @@ A preparação do ambiente é bastante simples. Utilizaremos o MS Visual Studio 
   7. **IMPORTANTE**: Neste assistente selecione apenas a opção "**Desenvolvimento para Desktop com .NET**"
   8. Na barra lateral direita marcar, também, a opção "**SQL Server Express 2016**"
   9. Feito isso, clicar no botão "**Instalar**" *no canto inferior direito. Aguardar (pode demorar bastante)
+  10. Finalizada a inatalação, clique em "iniciar" no Visual Studio
+
+Qualquer problema que você tiver durante o processo de instalação, por favor, comunique o professor ou verifique o código de erro no StackOverflow.
 
 
 

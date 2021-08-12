@@ -42,11 +42,11 @@ Todas as aulas podem ser acompanhadas através do material do AVA.
 
 Durante o semestre o professor fornecerá de 4 a 6 atividades de múltipla escolha, via forms, através deste git. Todas as atividades duram ao menos 14 dias.
 
-A média final do professor é calcula simplesmente pela média de suas atividaes, acrescentados eventuais pontos extras.
+A média final do professor é calcula simplesmente pela média de suas atividades, acrescentados eventuais pontos extras.
 
 Este professor não aplica nenhuma prova durante o semestre, ou seja, utiliza apenas as notas as atividades para compor sua média.
 
-A média final de cada disciplina é calculada, normalmentem da seguinte forma:
+A média final de cada disciplina é calculada, normalmente da seguinte forma:
 
 
 ```

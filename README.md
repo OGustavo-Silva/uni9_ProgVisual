@@ -22,7 +22,9 @@ A preparação do ambiente é bastante simples. Utilizaremos o MS Visual Studio 
   6. Finalizado o passo anterior (pode demorar um pouco) um gerenciador de instalação será exibido
   7. **IMPORTANTE**: Neste assistente selecione apenas a opção "**Desenvolvimento para Desktop com .NET**"
   8. Na barra lateral direita marcar, também, a opção "**SQL Server Express 2016**"
-  9. Feito isso, clicar no botão "**Instalar**" *no canto inferior direito. Aguardar (pode demorar)
+  9. Feito isso, clicar no botão "**Instalar**" *no canto inferior direito. Aguardar (pode demorar bastante)
+
+
 
 
 Se você já possui o VS instalado, basta executar o "Visual Studio Installer" e seguir os passos 7 em diante.
@@ -51,6 +53,6 @@ A média final de cada disciplina é calculada, normalmentem da seguinte forma:
 Média Final = (0,4 * Avaliação Integrada) + (0,6 * Nota do professor)
 ```
 
-Avaliação integrada é uma avaliação a ser marcada pela coordenação que ocorre durante uma de suas aulas e engloba, em uma unica prova, todos os conceitos das disciplinas do módulo. Na prova integrada também podem ser cobrados conceitos de conhecimentos gerais.
+Avaliação integrada é uma avaliação a ser marcada pela coordenação que ocorre durante uma de suas aulas e engloba, em uma única prova, todos os conceitos das disciplinas do módulo. Na prova integrada também podem ser cobrados conceitos de conhecimentos gerais.
 
 Este professor não utiliza faltas como critério de avaliação.

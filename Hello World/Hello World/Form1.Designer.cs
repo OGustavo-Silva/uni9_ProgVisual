@@ -31,7 +31,7 @@ namespace Hello_World
         {
             this.txtNome = new System.Windows.Forms.TextBox();
             this.lbNome = new System.Windows.Forms.Label();
-            this.btMensagem = new System.Windows.Forms.Button();
+            this.btOlaMundo = new System.Windows.Forms.Button();
             this.lbResultado = new System.Windows.Forms.Label();
             this.btLimpar = new System.Windows.Forms.Button();
             this.SuspendLayout();
@@ -54,24 +54,25 @@ namespace Hello_World
             this.lbNome.TabIndex = 1;
             this.lbNome.Text = "Insira seu nome:";
             // 
-            // btMensagem
+            // btOlaMundo
             // 
-            this.btMensagem.BackColor = System.Drawing.Color.Yellow;
-            this.btMensagem.Location = new System.Drawing.Point(36, 51);
-            this.btMensagem.Name = "btMensagem";
-            this.btMensagem.Size = new System.Drawing.Size(153, 23);
-            this.btMensagem.TabIndex = 2;
-            this.btMensagem.Text = "Dizer olá...";
-            this.btMensagem.UseVisualStyleBackColor = false;
-            this.btMensagem.Click += new System.EventHandler(this.btMensagem_Click);
+            this.btOlaMundo.BackColor = System.Drawing.Color.Yellow;
+            this.btOlaMundo.Location = new System.Drawing.Point(36, 51);
+            this.btOlaMundo.Name = "btOlaMundo";
+            this.btOlaMundo.Size = new System.Drawing.Size(153, 23);
+            this.btOlaMundo.TabIndex = 2;
+            this.btOlaMundo.Text = "Dizer olá...";
+            this.btOlaMundo.UseVisualStyleBackColor = false;
+            this.btOlaMundo.Click += new System.EventHandler(this.btOlaMundo_Click);
             // 
             // lbResultado
             // 
             this.lbResultado.AutoSize = true;
             this.lbResultado.Location = new System.Drawing.Point(33, 106);
             this.lbResultado.Name = "lbResultado";
-            this.lbResultado.Size = new System.Drawing.Size(0, 13);
+            this.lbResultado.Size = new System.Drawing.Size(73, 13);
             this.lbResultado.TabIndex = 3;
+            this.lbResultado.Text = "RESULTADO";
             // 
             // btLimpar
             // 
@@ -92,7 +93,7 @@ namespace Hello_World
             this.ClientSize = new System.Drawing.Size(211, 154);
             this.Controls.Add(this.btLimpar);
             this.Controls.Add(this.lbResultado);
-            this.Controls.Add(this.btMensagem);
+            this.Controls.Add(this.btOlaMundo);
             this.Controls.Add(this.lbNome);
             this.Controls.Add(this.txtNome);
             this.Name = "Form1";
@@ -107,7 +108,7 @@ namespace Hello_World
 
         private System.Windows.Forms.TextBox txtNome;
         private System.Windows.Forms.Label lbNome;
-        private System.Windows.Forms.Button btMensagem;
+        private System.Windows.Forms.Button btOlaMundo;
         private System.Windows.Forms.Label lbResultado;
         private System.Windows.Forms.Button btLimpar;
     }

@@ -17,22 +17,22 @@ namespace Hello_World
             InitializeComponent();
         }
 
-        private void btMensagem_Click(object sender, EventArgs e)
-        {
-            MessageBox.Show(
-                "Olá " + txtNome.Text + ", sinta-se acolhido(a)! :)");
-            lbResultado.Text = txtNome.Text;
-        }
-
         private void Form1_Load(object sender, EventArgs e)
         {
-
+            lbResultado.Text = "";
         }
 
         private void btLimpar_Click(object sender, EventArgs e)
         {
             txtNome.Text = "";
             lbResultado.Text = "";
+        }
+
+        private void btOlaMundo_Click(object sender, EventArgs e)
+        {
+            lbResultado.Text = txtNome.Text;
+            MessageBox.Show(
+                "Olá " + txtNome.Text + ", sinta-se acolhido(a)! :)");
         }
     }
 }

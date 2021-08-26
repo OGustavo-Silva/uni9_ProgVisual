@@ -1,0 +1,10 @@
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe.config
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\bin\Debug\Calculadora Simples.pdb
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.AssemblyReference.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.FormPrincipal.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora_Simples.Properties.Resources.resources
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.GenerateResource.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.csproj.CoreCompileInputs.cache
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.exe
+Y:\OneDrive\Uninove\2021.2\repositorios\4_noite\Calculadora Simples\Calculadora Simples\obj\Debug\Calculadora Simples.pdb

@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\Loops\Loops\bin\Debug\Loops.exe.config
+C:\Users\gusta\source\repos\Loops\Loops\bin\Debug\Loops.exe
+C:\Users\gusta\source\repos\Loops\Loops\bin\Debug\Loops.pdb
+C:\Users\gusta\source\repos\Loops\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Loops\Loops\obj\Debug\Loops.FrmPrincipal.resources
+C:\Users\gusta\source\repos\Loops\Loops\obj\Debug\Loops.Properties.Resources.resources
+C:\Users\gusta\source\repos\Loops\Loops\obj\Debug\Loops.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Loops\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Loops\Loops\obj\Debug\Loops.exe
+C:\Users\gusta\source\repos\Loops\Loops\obj\Debug\Loops.pdb

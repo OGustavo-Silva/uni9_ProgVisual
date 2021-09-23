@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\bin\Debug\PorValorEPorReferencia.exe.config
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\bin\Debug\PorValorEPorReferencia.exe
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\bin\Debug\PorValorEPorReferencia.pdb
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\obj\Debug\PorValorEPorReferencia.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\obj\Debug\PorValorEPorReferencia.frmPrincipal.resources
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\obj\Debug\PorValorEPorReferencia.Properties.Resources.resources
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\obj\Debug\PorValorEPorReferencia.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\obj\Debug\PorValorEPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\obj\Debug\PorValorEPorReferencia.exe
+C:\Users\gusta\source\repos\PorValorEPorReferencia\PorValorEPorReferencia\obj\Debug\PorValorEPorReferencia.pdb

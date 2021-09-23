@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\Atividade1\Atividade1\bin\Debug\Atividade1.exe.config
+C:\Users\gusta\source\repos\Atividade1\Atividade1\bin\Debug\Atividade1.exe
+C:\Users\gusta\source\repos\Atividade1\Atividade1\bin\Debug\Atividade1.pdb
+C:\Users\gusta\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.Form1.resources
+C:\Users\gusta\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.Properties.Resources.resources
+C:\Users\gusta\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.exe
+C:\Users\gusta\source\repos\Atividade1\Atividade1\obj\Debug\Atividade1.pdb

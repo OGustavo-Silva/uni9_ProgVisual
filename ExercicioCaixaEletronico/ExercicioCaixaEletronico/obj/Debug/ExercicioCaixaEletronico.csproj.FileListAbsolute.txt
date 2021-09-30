@@ -1,0 +1,10 @@
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\bin\Debug\ExercicioCaixaEletronico.exe.config
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\bin\Debug\ExercicioCaixaEletronico.exe
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\bin\Debug\ExercicioCaixaEletronico.pdb
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\obj\Debug\ExercicioCaixaEletronico.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\obj\Debug\ExercicioCaixaEletronico.FrmPrincipal.resources
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\obj\Debug\ExercicioCaixaEletronico.Properties.Resources.resources
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\obj\Debug\ExercicioCaixaEletronico.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\obj\Debug\ExercicioCaixaEletronico.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\obj\Debug\ExercicioCaixaEletronico.exe
+C:\Users\gusta\source\repos\ExercicioCaixaEletronico\ExercicioCaixaEletronico\obj\Debug\ExercicioCaixaEletronico.pdb

@@ -1,0 +1,11 @@
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\bin\Debug\Notepadinho.exe.config
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\bin\Debug\Notepadinho.exe
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\bin\Debug\Notepadinho.pdb
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.csproj.AssemblyReference.cache
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.FrmTexto.resources
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.FrmPrincipal.resources
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.Properties.Resources.resources
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.csproj.GenerateResource.cache
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.exe
+C:\Users\gusta\source\repos\2021-2_quarta_noite\Notepadinho\Notepadinho\obj\Debug\Notepadinho.pdb
